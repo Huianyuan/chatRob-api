@@ -1,0 +1,8 @@
+server:
+  port: 8090
+
+
+chatrot-api:
+  groupId: 28885518425541 # 知识星球ID
+  cookie: klasdjflk # 知识星球个人cookie信息
+  openAiKey:  # 自行申请 https://beta.openai.com/overview 或者联系小傅哥 fustack 付费申请【购买虚拟号码等需要支付】。
